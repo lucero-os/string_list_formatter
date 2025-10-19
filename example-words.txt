@@ -1,0 +1,8 @@
+apple
+elephant
+tiger
+red
+dog
+grape
+era
+

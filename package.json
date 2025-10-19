@@ -1,0 +1,25 @@
+{
+  "name": "string-list-formatter",
+  "version": "1.0.0",
+  "description": "String list formatter for CLI usage",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc",
+    "test": "ts-node test.ts"
+  },
+  "keywords": [
+    "word-chain",
+    "hierholzer",
+    "eulerian-path",
+    "graph-algorithm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "typescript": "^5.9.2",
+    "ts-node": "^10.9.2"
+  }
+}
+
