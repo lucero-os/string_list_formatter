@@ -24,6 +24,15 @@ El algoritmo:
 
 ## Instalación
 
+### Clonar proyecto
+
+```bash
+git clone https://github.com/lucero-os/string_list_formatter.git
+# o descargar ZIP y extraer.
+```
+
+### Instalar dependencias
+
 ```bash
 npm install
 ```
